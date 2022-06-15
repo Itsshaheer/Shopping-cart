@@ -14,6 +14,6 @@ FEATURES
 
 This app allows users to add items to the cart and dynamically see it changing. Users can also clear the cart add and subtract items and view their cart.
 
-CHAllENGES
+CHALLENGES
 
 I did not set up a sign up feature as this project was more focused on showing my front end skills.
